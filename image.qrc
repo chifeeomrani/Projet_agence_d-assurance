@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>home.png</file>
+        <file>client.png</file>
+        <file>editer.png</file>
+        <file>employe-de-bureau.png</file>
+        <file>trousse-de-premiers-secours.png</file>
+        <file>signe.png</file>
+        <file>Sans_titre-removebg-preview.png</file>
+        <file>logo.png</file>
+        <file>signe-de-la-croix.png</file>
+        <file>date.png</file>
+        <file>description.png</file>
+        <file>reclamation.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>reclamer.png</file>
+        <file>date.png</file>
+    </qresource>
+</RCC>
